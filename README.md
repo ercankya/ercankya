@@ -1,7 +1,7 @@
 # Hello, I'm Ercan KAYA
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kayaercan/)
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/kyaercan/)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/3rcankaya/)
 
 ## 📚 Education
 
