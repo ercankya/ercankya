@@ -1,16 +1,11 @@
 # Hello, I'm Ercan KAYA
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kayaercan/)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/kyaercan/)
 
-<a href="https://www.linkedin.com/in/kayaercan/" target="_blank">
-  <img align="left" alt="Arjun | LinkedIn" width="30px"  src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/__arjungautam/" target="_blank">
-  <img align="left" alt="Arjun | Medium" width="30px" src="https://github.com/arjun-sudo/arjun-sudo/blob/master/assets/instagram.svg" />
-</a>
--##
 ## 📚 Education
 
-- **Eskişehir Osmangazi University**
+- **Eskişehir Osmangazi University**z
   - *BSc in Computer Engineering*
   - *Graduation Date: July 2020*
 
