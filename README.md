@@ -1,13 +1,13 @@
 # Hello, I'm Ercan KAYA
 
-##
+
 <a href="https://www.linkedin.com/in/kayaercan/" target="_blank">
   <img align="left" alt="Arjun | LinkedIn" width="30px"  src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/__arjungautam/" target="_blank">
   <img align="left" alt="Arjun | Medium" width="30px" src="https://github.com/arjun-sudo/arjun-sudo/blob/master/assets/instagram.svg" />
 </a>
-
+-##
 ## 📚 Education
 
 - **Eskişehir Osmangazi University**
