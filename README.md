@@ -1,6 +1,13 @@
 # Hello, I'm Ercan KAYA
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kayaercan/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]()
+
+<a href="https://www.linkedin.com/in/kayaercan/" target="_blank">
+  <img align="left" alt="Arjun | LinkedIn" width="30px"  src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/__arjungautam/" target="_blank">
+  <img align="left" alt="Arjun | Medium" width="30px" src="https://github.com/arjun-sudo/arjun-sudo/blob/master/assets/instagram.svg" />
+</a>
 
 
 ## 📚 Education
