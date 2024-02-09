@@ -50,4 +50,4 @@ I am currently taking a break from full-time employment and focusing on personal
 
 - LinkedIn: Ercan KAYA(https://www.linkedin.com/in/kayaercan/)
 
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs&theme=dark)
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=ercankya&show_icons=true&count_private=true&hide=prs&theme=dark)
