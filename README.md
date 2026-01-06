@@ -49,5 +49,6 @@ I am currently taking a break from full-time employment and focusing on personal
 ## 📫 Get in Touch
 
 - LinkedIn: Ercan KAYA(https://www.linkedin.com/in/kayaercan/)
+- Web: Ercan KAYA(https://www.brusksoftware.com/)
 
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=ercankya&show_icons=true&count_private=true&hide=prs&theme=dark)
