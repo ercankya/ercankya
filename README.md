@@ -1,54 +1,58 @@
-# Hello, I'm Ercan KAYA
+# Ercan Kaya
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kayaercan/)
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/3rcankaya/)
+Full-stack developer. I take a product from the API and data model through to the web and mobile screens people use. Open to freelance work and full-time roles.
 
-## 📚 Education
+[LinkedIn](https://www.linkedin.com/in/kayaercan/) · [Website](https://www.brusksoftware.com/) · [Instagram](https://www.instagram.com/3rcankaya/)
 
-- **Eskişehir Osmangazi University**z
-  - *BSc in Computer Engineering*
-  - *Graduation Date: July 2020*
+## Now
 
-## 💼 Professional Experience
+I build my own products and take on freelance product work. The recent work is multi-service backends, several web apps on one domain, and mobile clients beside them.
 
-- **Metasoft Information Systems**
-  - *Position: Fullstack Developer*
-  - *Employment Period: July 2020 - October 2022*
-  - *Website: [Metasoft](https://www.metasoft.com.tr/)*
+## Experience
 
-## 🛠️ Technologies and Tools
-<p align="left">
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-</p>
- Java
-- Spring
-- ReactJS
-- JavaScript
-- SQL
-- MS SQL
-- Redux
-- Git
-- IntelliJ
-- VSCode
+**Independent full-stack developer**
+October 2022 — Present
 
-## 🚀 Currently
+- Ship my own platforms and freelance product work across API, web, and mobile.
+- Day-to-day stack: TypeScript, NestJS, Next.js, Flutter, React Native, PostgreSQL, Redis.
 
-I am currently taking a break from full-time employment and focusing on personal projects and studies. Open to new opportunities and eager to contribute to exciting projects.
+**Full-stack developer, Metasoft Information Systems**
+July 2020 — October 2022 · [metasoft.com.tr](https://www.metasoft.com.tr/)
 
-- 🔭 I’m currently working on: Personal projects and studies
-- 🌱 I’m currently learning: Microservices architecture and furthering my skills in Java and Spring.
-- 👯 I’m looking to collaborate on: Java, Spring, and React projects.
-- 💬 Ask me about: Java, Spring, React, Microservices, or anything related to web development.
+- Full-stack development on Metasoft’s software products, in the clinical information systems domain.
 
-## 📫 Get in Touch
+## Projects
 
-- LinkedIn: Ercan KAYA(https://www.linkedin.com/in/kayaercan/)
-- Web: Ercan KAYA(https://www.brusksoftware.com/)
+**[Yemek Hazır](https://github.com/ercankya/YH)** — food and grocery ordering (Diyarbakır pilot)
 
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=ercankya&show_icons=true&count_private=true&hide=prs&theme=dark)
+- NestJS microservices for orders, payments, restaurants, markets, couriers, and search
+- Web apps for customers, restaurants, markets, couriers, and admin
+- Flutter apps for the same roles
+- PostgreSQL, Redis, Docker
+
+**Hevra** — social activity platform (in active development)
+
+- Events, groups, feed, and realtime chat
+- NestJS API, Next.js web, React Native mobile
+- PostgreSQL, Redis, Prisma
+- Auth, notifications, and payments on the same API
+
+## Stack
+
+**Languages** — TypeScript, JavaScript, Java, SQL
+**Backend** — NestJS, Node.js, Spring
+**Web** — React, Next.js, Redux
+**Mobile** — Flutter, React Native
+**Data and tools** — PostgreSQL, Redis, MS SQL, Prisma, Docker, Git
+
+## Education
+
+**Eskişehir Osmangazi University** — BSc, Computer Engineering (July 2020)
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/kayaercan/
+- Web: https://www.brusksoftware.com/
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ercankya&show_icons=true&theme=dark)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ercankya&layout=compact&theme=dark)
